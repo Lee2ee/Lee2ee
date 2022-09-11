@@ -33,7 +33,7 @@ Tools that i've used at least once
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee2ee)](https://github.com/anuraghazra/github-readme-stats)  
 
 <hr />   
-</div>   
+
 반갑습니다<br />
 제 이름은 이창주 입니다<br />
 백엔드 개발자를 목표로 공부하고 있어요<br />
@@ -50,3 +50,4 @@ Tools that i've used at least once
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee2ee&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
+</div>
