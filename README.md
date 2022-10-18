@@ -32,11 +32,6 @@ Tools that i've used at least once
 
 <hr />   
 
-반갑습니다<br />
-제 이름은 이창주 입니다<br />
-현재 IMCT연구소 신입 연구원 입니다.   
-잘부탁드립니다.
-
 
 ### :+1: hobby :+1:
 :basketball: 농구   
